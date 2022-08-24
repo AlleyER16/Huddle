@@ -1,6 +1,6 @@
 # Huddle UI
 
-Used CSS Grid to create Huddle UI
+Used CSS Grid to create Huddle UI. A simple responsive web page
 
 ## Link to Published GitHub Page
 
