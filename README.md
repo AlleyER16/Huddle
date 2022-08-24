@@ -4,6 +4,8 @@ Used CSS Grid to create Huddle UI
 
 ## Link to Published GitHub Page
 
+[View live](https://alleyer16.github.io/Huddle/)
+
 ## Screenshots
 
 ![Header and Hero Section](/screenshots/1.png)
