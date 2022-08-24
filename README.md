@@ -1,4 +1,4 @@
-# Responsiveness and Media Query
+# Huddle UI
 
 Used CSS Grid to create Huddle UI
 
